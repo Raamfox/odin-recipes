@@ -23,3 +23,7 @@
 .picture img {
     display: block;
 }
+
+.title {
+    text-align: center;
+}
