@@ -1,4 +1,4 @@
-body{
+* {
     background-color: beige;
 }
 
@@ -18,4 +18,8 @@ body{
 
 .recipe-title{
     background-color: bisque;
+}
+
+.picture img {
+    display: block;
 }
