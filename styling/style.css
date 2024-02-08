@@ -10,20 +10,45 @@
     background-color: blanchedalmond;
 }
 
-.recipe-meny{
+.recipe-meny {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+   
+}
+
+.recipe-meny a{
     background-color:rgb(175, 113, 31);
     text-align: center;
     font-size: x-large;
 }
 
+
 .recipe-title{
     background-color: bisque;
 }
 
-.picture img {
+
+.image-home {
+    text-align: center;
+    border: 3px solid burlywood;
+}
+
+.image-home img {
     display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+
+.image-food img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    border: 3px solid burlywood;
 }
 
 .title {
     text-align: center;
 }
+
